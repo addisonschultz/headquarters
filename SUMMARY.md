@@ -11,6 +11,8 @@
 ## Fundamentals
 
 * [Projects](fundamentals/projects.md)
+* [The HQ chatbot](fundamentals/the-hq-chatbot/README.md)
+  * [Setting up the HQ chatbot](fundamentals/the-hq-chatbot/setting-up-the-hq-chatbot.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)

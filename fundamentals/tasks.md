@@ -1,3 +1,7 @@
+---
+icon: page
+---
+
 # Tasks
 
 {% hint style="info" %}

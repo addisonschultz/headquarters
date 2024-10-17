@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # Members
 
 {% hint style="info" %}

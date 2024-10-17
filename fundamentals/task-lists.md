@@ -1,3 +1,7 @@
+---
+icon: file-lines
+---
+
 # Task Lists
 
 {% hint style="info" %}

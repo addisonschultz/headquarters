@@ -1,3 +1,7 @@
+---
+icon: file-shield
+---
+
 # Advanced permissions
 
 {% hint style="info" %}

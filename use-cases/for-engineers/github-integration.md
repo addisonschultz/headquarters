@@ -1,3 +1,7 @@
+---
+icon: square-github
+---
+
 # GitHub Integration
 
 {% hint style="info" %}

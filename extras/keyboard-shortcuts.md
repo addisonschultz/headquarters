@@ -1,3 +1,7 @@
+---
+icon: keyboard
+---
+
 # Keyboard Shortcuts
 
 {% hint style="info" %}

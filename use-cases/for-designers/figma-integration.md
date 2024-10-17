@@ -1,3 +1,7 @@
+---
+icon: figma
+---
+
 # Figma Integration
 
 {% hint style="info" %}

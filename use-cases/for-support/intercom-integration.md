@@ -1,3 +1,7 @@
+---
+icon: intercom
+---
+
 # Intercom Integration
 
 {% hint style="info" %}
