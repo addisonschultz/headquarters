@@ -13,6 +13,8 @@ It can respond to frequently asked questions, provide order statuses, troublesho
 
 The chatbot is customizable and integrates seamlessly with your existing ticketing system, ensuring that every interaction is tracked and monitored.
 
+You can also [integrate the chatbot into your website](setting-up-the-hq-chatbot.md#integrate-the-chatbot-into-your-website) — read on to find out how.
+
 ***
 
 ### **How to use the chatbot**
@@ -23,7 +25,7 @@ Below is a step-by-step guide to setting up and using the Intelligent Chatbot fe
 {% step %}
 ### Create a new chatbot
 
-Log in to your account and navigate to the main dashboard. Under the "Support" tab, click on **Chatbot Settings**, then select **New Chatbot** to create a customized bot for your e-commerce store. You’ll be prompted to select a template or start from scratch.
+[Log in to your account](https://www.headquarters.com/login) and navigate to the main dashboard. Under the "Support" tab, click on **Chatbot Settings**, then select **New Chatbot** to create a customized bot for your e-commerce store. You’ll be prompted to select a template or start from scratch.
 {% endstep %}
 
 {% step %}
@@ -108,4 +110,4 @@ Based on the chatbot's performance, you can return to the Chatbot Settings to up
 * **Advanced Customization:** Learn how to implement advanced features like natural language processing (NLP) and multi-lingual support in your chatbot.
 * **Connect to CRM:** Integrate the chatbot with your CRM system to sync customer interactions and gather deeper insights into user behavior.
 
-For further details or troubleshooting, refer to our [Support Documentation](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/zq8ynchcecIscc4uulgN/) or [contact our helpdesk](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/zq8ynchcecIscc4uulgN/).
+For further details or troubleshooting, refer to our [Support Documentation](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/zq8ynchcecIscc4uulgN/) or [contact our helpdesk](mailto:support@headquarters.com).
