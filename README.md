@@ -1,18 +1,30 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/hero.png
+cover: .gitbook/assets/headquarters-header-fade.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Welcome to HeadQuarters
 
-_HeadQuarters is an AI-powered customer support platform designed for e-commerce businesses. It helps online retailers automate and streamline their customer interactions using intelligent chatbots, ticket management, and data-driven insights._
+<h2 align="center">Welcome to HeadQuarters</h2>
 
-This documentation covers how to use HeadQuarters APIs in your own e-commerce platform, as well as how to build integrations and plugins to bring your HeadQuarters workflows in other tools.
+<h4 align="center"> <em>An AI-powered customer support platform helping retailers automate and streamline customer interactions with intelligent chatbots, ticket management, and data-driven insights</em> </h4>
 
 ### Fundamentals: Learn the basics
-
-Get to grips the fundamentals of HeadQuarters to get a deeper understanding of our main features:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Projects</strong></td><td><a href="fundamentals/projects.md">projects.md</a></td><td><a href=".gitbook/assets/thumbnail-1.jpg">thumbnail-1.jpg</a></td></tr><tr><td><strong>Members</strong></td><td><a href="fundamentals/members.md">members.md</a></td><td><a href=".gitbook/assets/thumbnail-2.jpg">thumbnail-2.jpg</a></td></tr><tr><td><strong>Task Lists</strong></td><td><a href="fundamentals/task-lists.md">task-lists.md</a></td><td><a href=".gitbook/assets/thumbnail-4.jpg">thumbnail-4.jpg</a></td></tr><tr><td><strong>Tasks</strong></td><td><a href="fundamentals/tasks.md">tasks.md</a></td><td><a href=".gitbook/assets/thumbnail-3.jpg">thumbnail-3.jpg</a></td></tr></tbody></table>
 
