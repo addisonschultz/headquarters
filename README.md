@@ -22,7 +22,7 @@ layout:
 
 <h2 align="center">Welcome to HeadQuarters</h2>
 
-<h4 align="center"> <em>An AI-powered customer support platform helping retailers automate and streamline customer interactions with intelligent chatbots, ticket management, and data-driven insights</em> </h4>
+<h4 align="center"> An AI-powered customer support platform helping retailers automate and streamline customer interactions with intelligent chatbots, ticket management, and data-driven insights </h4>
 
 ### Fundamentals: Learn the basics
 
